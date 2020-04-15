@@ -36,8 +36,19 @@
 
 # Directories
 **/bin
+**/Bin
 **/obj
+**/Obj
+**/Debug
+**/debug
+**/.vs
 
 # Others
 *.layout
 *.depend
+
+# VS files
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
