@@ -34,3 +34,6 @@
 # CodeBlocks solution files
 *.cbp
 
+# Directories
+**/bin
+**/obj
