@@ -271,7 +271,7 @@ int WINAPI WinMain(
     hwnd = CreateWindowEx(
         WS_EX_CLIENTEDGE,
         L"WindowClass",
-        L"SP, Lab: 11",
+        L"OSaN, Lab: 11",
         WS_OVERLAPPEDWINDOW,
         CW_USEDEFAULT, CW_USEDEFAULT, 800, 600,
         NULL, NULL, hInstance, NULL
